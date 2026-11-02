@@ -121,7 +121,7 @@ Examines patient demographics and appointment patterns through:
 - Appointment outcomes by patient type
 - Insurance-type distribution
 
-![Patient Analysis dashboard](Images/dashboard-patients-analysis.png)
+![Patient Analysis dashboard](Images/dashboard-patient-analysis.png)
 
 ### 4. Operational Performance
 
