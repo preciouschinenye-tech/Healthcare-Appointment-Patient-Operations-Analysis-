@@ -97,6 +97,8 @@ Provides a high-level summary of healthcare performance, including:
 - Monthly appointment trends
 - Department-level performance
 
+![Overview dashboard](Images/dashboard-overview.png)
+
 ### 2. Appointment Analysis
 
 Explores appointment attendance and missed appointments through:
@@ -106,6 +108,8 @@ Explores appointment attendance and missed appointments through:
 - Scheduling lead-time groups
 - Appointment-type analysis
 - Appointment outcome comparisons
+
+![Appointment Analysis dashboard](Images/dashboard-appointment-analysis.png)
 
 ### 3. Patient Analysis
 
@@ -117,6 +121,8 @@ Examines patient demographics and appointment patterns through:
 - Appointment outcomes by patient type
 - Insurance-type distribution
 
+![Patient Analysis dashboard](Images/dashboard-patients-analysis.png)
+
 ### 4. Operational Performance
 
 Evaluates operational efficiency through:
@@ -127,6 +133,8 @@ Evaluates operational efficiency through:
 - Average consultation duration by department
 - Department-level operational summary
 
+![Operational Performance dashboard](Images/dashboard-operation.png)
+
 ### 5. Financial & Geographic Analysis
 
 Explores consultation revenue and payment patterns through:
@@ -135,6 +143,8 @@ Explores consultation revenue and payment patterns through:
 - Insurance coverage versus patient payments
 - Revenue by state
 - Annual consultation revenue comparison
+
+![Finance and Geographic dashboard](Images/dashboard-finance-geography.png)
 
 ## Data Modelling and DAX
 
